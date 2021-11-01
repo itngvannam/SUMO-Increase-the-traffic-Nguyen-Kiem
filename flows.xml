@@ -1,0 +1,8 @@
+<flows>
+ <flow id="1" from="615787306#8" to="32577828#1" begin="0" end="3600" vehsPerHour="1500" color="255,0,0"/>
+
+ <flow id="2" from="817909960#4" to="32577828#1" begin="0" end="3600" vehsPerHour="1000" color="255,255,0"/> 
+ <flow id="3" from="409101012#4" to="32577828#1" begin="0" end="3600" vehsPerHour="500" color="0,255,0"/>   
+
+</flows>
+
